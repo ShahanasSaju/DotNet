@@ -1,0 +1,11 @@
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+E:\Shahanas Saju\DotNet\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
