@@ -1,0 +1,15 @@
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+E:\Shahanas Saju\DotNet\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
