@@ -1,0 +1,15 @@
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\bin\Debug\net6.0\Ifelse.exe
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\bin\Debug\net6.0\Ifelse.deps.json
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\bin\Debug\net6.0\Ifelse.runtimeconfig.json
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\bin\Debug\net6.0\Ifelse.dll
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\bin\Debug\net6.0\Ifelse.pdb
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.csproj.AssemblyReference.cache
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.AssemblyInfoInputs.cache
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.AssemblyInfo.cs
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.csproj.CoreCompileInputs.cache
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.dll
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\refint\Ifelse.dll
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.pdb
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\Ifelse.genruntimeconfig.cache
+E:\Shahanas Saju\DotNet\Ifelse\Ifelse\obj\Debug\net6.0\ref\Ifelse.dll
